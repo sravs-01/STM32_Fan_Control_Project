@@ -125,5 +125,14 @@ void Servo_SetAngle(uint8_t angle) { ... }
 --->
 ---
 
+# Servo Motor Control
+
+The servo motor's angle is controlled using PWM signals. Here's a visual representation of the setup:
+
+![Servo Motor Setup Image 1](images/img1.jpg)
+![Servo Motor Setup Image 2](images/img2.jpg)
+
+---
+
 ### License
 This project is licensed under the MIT License.
