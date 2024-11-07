@@ -1,5 +1,9 @@
 # Embedded Systems Project Documentation
 
+**Department of Computer Science and Engineering**  
+Amrita School of Computing,  
+Amrita Vishwa Vidyapeetham, Coimbatore, India 
+
 ## Course: 19CSE303 Embedded Systems
 
 ### Team Members:
